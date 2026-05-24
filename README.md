@@ -216,7 +216,7 @@ See the `LICENSE` file for the full licence text.
 Source code and project files are available on GitHub:
 
 ```text
-[PASTE YOUR GITHUB REPO LINK HERE](https://github.com/SquishyPoos1870/true-hd-factorio)
+[https://github.com/SquishyPoos1870/true-hd-factorio]
 ```
 
 Factorio Mod Portal page:
